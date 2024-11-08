@@ -20,10 +20,14 @@ You can play the game live here: https://pratibha946.github.io/Tic-Tac-Toi-Game/
 5. If all squares are filled and no player has three marks in a row, the game ends in a draw.
 
 ## Screenshots
+![Screenshot (647)](https://github.com/user-attachments/assets/435d4c8b-58cb-4881-b77f-feec8e844fac)
+![Screenshot (646)](https://github.com/user-attachments/assets/0640744c-d3ff-4f36-9779-ebf14b0a1b20)
+![Screenshot (649)](https://github.com/![Screenshot (648)](https://github.com/user-attachments/assets/7007a2ca-6b13-4e75-8dc6-b61e2c9d6e61)
 
-![Screenshot of the Tic Tac Toe game](path/to/screenshot.png)
+![Screenshot (648)](https://github.com/user-attachments/assets/d957dd3d-71e7-414a-a610-ae37ed7d3091)
 
 ## Technologies Used
+
 1. HTML: Structure of the game.
 2. CSS: Styling for the game layout and design.
 3. JavaScript: Game logic and interactivity.
