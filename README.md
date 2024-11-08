@@ -23,10 +23,7 @@ You can play the game live here: https://pratibha946.github.io/Tic-Tac-Toi-Game/
 
 ![Screenshot of the Tic Tac Toe game](path/to/screenshot.png)
 
-## Getting Started
-
-To run the game locally:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/tic-tac-toe.git
+## Technologies Used
+HTML: Structure of the game.
+CSS: Styling for the game layout and design.
+JavaScript: Game logic and interactivity.
