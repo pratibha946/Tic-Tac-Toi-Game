@@ -24,6 +24,6 @@ You can play the game live here: https://pratibha946.github.io/Tic-Tac-Toi-Game/
 ![Screenshot of the Tic Tac Toe game](path/to/screenshot.png)
 
 ## Technologies Used
-HTML: Structure of the game.
-CSS: Styling for the game layout and design.
-JavaScript: Game logic and interactivity.
+1. HTML: Structure of the game.
+2. CSS: Styling for the game layout and design.
+3. JavaScript: Game logic and interactivity.
