@@ -1,16 +1,3 @@
-// let boxes = document.querySelectorAll(".box")
-// let reserGameButton = document.querySelecto("#reset-btn")
-// let newGameButton = document.querySelector("#new-btn")
-// let msgContainer = document.querySelector(".message-container")
-// let msg = document.querySelector("#msg")
-
-// let turnO = true; //playerO, playerX
-// let count = 0; ////To Track Draw
-
-// const winPatterns = [
-//     [0, 1, 2],
-//     [0, 3, 6],
-//     [0, 4, 8],
 let boxes = document.querySelectorAll(".box");
 let resetBtn = document.querySelector("#reset-btn");
 let newGameBtn = document.querySelector("#new-btn");
